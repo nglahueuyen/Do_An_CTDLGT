@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\bin\Debug\net5.0\Do_An_CTDLGT.exe
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\bin\Debug\net5.0\Do_An_CTDLGT.deps.json
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\bin\Debug\net5.0\Do_An_CTDLGT.runtimeconfig.json
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\bin\Debug\net5.0\Do_An_CTDLGT.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\bin\Debug\net5.0\Do_An_CTDLGT.dll
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\bin\Debug\net5.0\ref\Do_An_CTDLGT.dll
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\bin\Debug\net5.0\Do_An_CTDLGT.pdb
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\obj\Debug\net5.0\Do_An_CTDLGT.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\obj\Debug\net5.0\Do_An_CTDLGT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\obj\Debug\net5.0\Do_An_CTDLGT.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\obj\Debug\net5.0\Do_An_CTDLGT.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\obj\Debug\net5.0\Do_An_CTDLGT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\obj\Debug\net5.0\Do_An_CTDLGT.dll
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\obj\Debug\net5.0\ref\Do_An_CTDLGT.dll
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\obj\Debug\net5.0\Do_An_CTDLGT.pdb
+C:\Users\Admin\source\repos\Do_An_CTDLGT\Do_An_CTDLGT\obj\Debug\net5.0\Do_An_CTDLGT.genruntimeconfig.cache

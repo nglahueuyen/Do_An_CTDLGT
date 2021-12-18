@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Do_An_CTDLGT/1.0.0": {
+        "runtime": {
+          "Do_An_CTDLGT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Do_An_CTDLGT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
